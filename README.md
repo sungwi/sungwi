@@ -1,16 +1,22 @@
-## Hi there 👋
+# About Me
 
-<!--
-**sungwi/sungwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Sungwi Kim
+- Computer Science major at Simon Fraser University
+- You can find my projects [here](https://sungwi.github.io/portfolio/)
 
-Here are some ideas to get you started:
+<a href="https://github.com/sungwi">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=sungwi&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/sungwi">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungwi&layout=compact&theme=dracula" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both" />
+
+## Programming Languages, Frameworks, and Libraries
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp,java,python,django" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,docker,git,github,vscode,linux,vercel" /> <br /><br />
