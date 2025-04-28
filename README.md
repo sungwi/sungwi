@@ -15,7 +15,7 @@
 
 ## Programming Languages, Frameworks, and Libraries
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp,java,python,django" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,c,cpp,java,python,django,tensorflow,pytorch" /> <br /><br />
 
 ## DB and Dev Tools etc
 
